@@ -1,0 +1,7 @@
+{
+	"name": "candranet",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/candranet/bot1",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["multi-device"]
+}
